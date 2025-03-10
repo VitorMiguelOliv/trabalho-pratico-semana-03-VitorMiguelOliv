@@ -10,17 +10,19 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Vitor Miguel Oliveira Alves
+- Matricula: 885041
+- Proposta de projeto escolhida: Diretório de Receitas
+- Breve descrição sobre seu projeto: O site foi desenvolvido com o objetivo de tornar mais fácil e acessível o compartilhamento de receitas, permitindo que os usuários enviem suas próprias criações culinárias e encontrem diversas opções de pratos de maneira rápida e organizada.
 
 
 ## Print do esboço criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+ <img src="./public/esboco1.png">
+ <img src="./public/esboco2.png">
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img src="./public/res1.png">
+ <img src="./public/res2.png">
